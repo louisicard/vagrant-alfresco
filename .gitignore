@@ -1,1 +1,3 @@
 .vagrant
+!/alfreco_shared_lib
+!/alfreco_shared_classes
